@@ -1,2 +1,2 @@
-# Clean-Code
-✏️ Clean Code 스터디 정리✏️
+📕✏ 책 Clean Code로 스터디를 진행하며 정리한 내용을 업로드합니다. 📕✏
+
